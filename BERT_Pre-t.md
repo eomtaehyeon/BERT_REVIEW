@@ -28,6 +28,7 @@ As a result, the pre-trained BERT model can be fine tuned with just one addition
 # 핵심 요약
 
 - trasformer의 encoder network를 기반으로, self-attention을 이용하여 bidirectional하게 언어 특성을 학습합니다.
+
     - transformer란?
     
     transformer는 the mechanism of self-attention**을 채택하는 딥 러닝 모델로서, 입력 데이터의 각 부분의 중요성을 차등적으로 가중시킨다. 주로 자연어 처리(NLP)와 컴퓨터 비전(CV) 분야에서 사용된다.**
